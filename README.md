@@ -1,4 +1,4 @@
-# 📡 Monophasic Low-Power Network Transformer
+# 📡 Single-Phase Low-Power Network Transformer
 
 ## 📌 Project Overview
 This project focuses on designing and developing a **low-power (P < 500W) single-phase network transformer**, considering both structural design and manufacturing technology. The transformer is intended for applications requiring **efficient power conversion and electrical isolation**, making it ideal for electronic equipment operating in varying ambient temperatures (10-80°C).
@@ -18,6 +18,14 @@ This transformer is suitable for a wide range of electronic devices, including:
 - **Soldering stations**
 - **Mobile device chargers**
 
+---
+
+## 🖼 Transformer Diagram
+*(Add transformer schematic here)*
+![Transformer Schematic](path/to/your/image1.jpg)
+
+---
+
 ## ⚙️ Technical Specifications
 | Parameter | Value |
 |-----------|-------|
@@ -27,14 +35,25 @@ This transformer is suitable for a wide range of electronic devices, including:
 | **Temperature Range** | 10 - 80°C |
 | **Winding Material** | Copper wire (enameled) |
 
+---
+
 ## 🔧 Manufacturing Process
-The transformer is built using the following steps:
 1. **Core Preparation:** Cutting and heat-treating silicon steel sheets.
 2. **Casing Construction:** Injection molding or assembly of insulating materials.
 3. **Winding Process:** Automated or semi-automated winding of copper wire.
 4. **Core Assembly:** Inserting laminated sheets and securing with clamping systems.
 5. **Impregnation:** Dipping in polyurethane varnish for thermal and electrical insulation.
 6. **Quality Control:** Testing electrical parameters such as resistance, insulation, and voltage transformation ratio.
+
+### 📷 Core Assembly Process
+*(Add core assembly image here)*
+![Core Assembly](path/to/your/image2.jpg)
+
+### 📷 Winding Process
+*(Add winding process image here)*
+![Winding Process](path/to/your/image3.jpg)
+
+---
 
 ## 📏 Design Considerations
 When designing the transformer, the following factors are considered:
@@ -44,11 +63,19 @@ When designing the transformer, the following factors are considered:
 - **Winding Resistance (R1, R2, ... R6)**
 - **Thermal and Electrical Insulation**
 
+### 📷 Transformer Final Assembly
+*(Add final assembly image here)*
+![Final Assembly](path/to/your/image4.jpg)
+
+---
+
 ## 📘 References
 1. [Technology and Design of Low-Power Transformers](https://curs.upb.ro/2023/pluginfile.php/211801/mod_folder/content/0/Tehnologia%20si%20proiectarea%20transformatorului.pdf)
 2. [Transformer Efficiency - Illustration Prize](https://illustrationprize.com/ro/694-transformer-efficiency.html)
 3. [Farnell - Electronic Components](https://ro.farnell.com/)
 4. [Scribd - Transformer Manufacturing](https://www.scribd.com/doc/58454244/Proiectarea-Transformatorului-de-Mica-Putere)
+
+---
 
 ## 📩 Contact
 For any questions or contributions, feel free to reach out!
