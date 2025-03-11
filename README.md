@@ -21,7 +21,6 @@ This transformer is suitable for a wide range of electronic devices, including:
 ---
 
 ## 🖼 Transformer Diagram
-*(Add transformer schematic here)*
 
 ![Transformer Schematic](images/2509f1ba-adae-4f95-945f-fc2db45798b4.png)
 ![Transformer Schematic](images/93efd01a-bcfe-4927-aa6b-62450b451120.png)
@@ -47,16 +46,6 @@ This transformer is suitable for a wide range of electronic devices, including:
 5. **Impregnation:** Dipping in polyurethane varnish for thermal and electrical insulation.
 6. **Quality Control:** Testing electrical parameters such as resistance, insulation, and voltage transformation ratio.
 
-### 📷 Core Assembly Process
-*(Add core assembly image here)*
-![Core Assembly](path/to/your/image2.jpg)
-
-### 📷 Winding Process
-*(Add winding process image here)*
-![Winding Process](path/to/your/image3.jpg)
-
----
-
 ## 📏 Design Considerations
 When designing the transformer, the following factors are considered:
 - **Primary & Secondary Voltage (U1, U2)**
@@ -65,11 +54,14 @@ When designing the transformer, the following factors are considered:
 - **Winding Resistance (R1, R2, ... R6)**
 - **Thermal and Electrical Insulation**
 
-### 📷 Transformer Final Assembly
-*(Add final assembly image here)*
-![Final Assembly](path/to/your/image4.jpg)
+## Transformer Design & Calculations
 
----
+![Transformer Design Calculations](images/2509f1ba-adae-4f95-945f-fc2db45798b4.png)
+![Transformer Design Calculations](images/a86b25df-d01a-4b63-a6d3-8e287d85b6e3.png)
+![Transformer Design Calculations](images/f2783381-6a92-4b3b-a659-738fdcef9a02.png)
+![Transformer Design Calculations](images/a86b25df-d01a-4b63-a6d3-8e287d85b6e3.png)
+![Transformer Design Calculations](images/a86b25df-d01a-4b63-a6d3-8e287d85b6e3.png)
+
 
 ## 📘 References
 1. [Technology and Design of Low-Power Transformers](https://curs.upb.ro/2023/pluginfile.php/211801/mod_folder/content/0/Tehnologia%20si%20proiectarea%20transformatorului.pdf)
