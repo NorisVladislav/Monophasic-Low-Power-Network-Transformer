@@ -1,4 +1,4 @@
-# 📡 Single-Phase Low-Power Network Transformer
+# 📡 Monophasic Low-Power Network Transformer
 
 ## 📌 Project Overview
 This project focuses on designing and developing a **low-power (P < 500W) single-phase network transformer**, considering both structural design and manufacturing technology. The transformer is intended for applications requiring **efficient power conversion and electrical isolation**, making it ideal for electronic equipment operating in varying ambient temperatures (10-80°C).
@@ -65,8 +65,10 @@ When designing the transformer, the following factors are considered:
 
 ## Components
 
-![Components](images/2509f1ba-adae-4f95-945f-fc2db45798b4.png)
+![Components](images/comp1.png)
+![Components](images/comp2.png)
 
+---
 
 ## 📘 References
 1. [Technology and Design of Low-Power Transformers](https://curs.upb.ro/2023/pluginfile.php/211801/mod_folder/content/0/Tehnologia%20si%20proiectarea%20transformatorului.pdf)
