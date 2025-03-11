@@ -22,7 +22,9 @@ This transformer is suitable for a wide range of electronic devices, including:
 
 ## 🖼 Transformer Diagram
 *(Add transformer schematic here)*
-![Transformer Schematic](images/2509f1ba-adae-4f95-945f-fc2db45798b4.emf)
+
+![Transformer Schematic](images/2509f1ba-adae-4f95-945f-fc2db45798b4.png)
+![Transformer Schematic](images/93efd01a-bcfe-4927-aa6b-62450b451120.png)
 
 ---
 
