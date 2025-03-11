@@ -58,6 +58,7 @@ When designing the transformer, the following factors are considered:
 
 ![Transformer Design Calculations](images/2509f1ba-adae-4f95-945f-fc2db45798b4.png)
 ![Transformer Design Calculations](images/a86b25df-d01a-4b63-a6d3-8e287d85b6e3.png)
+![Transformer Design Calculations](images/f2783381-6a92-4b3b-a659-738fdcef9a02.png)
 ![Transformer Design Calculations](images/c7314335-0557-486d-ae2a-cf4a26c7053c.png)
 ![Transformer Design Calculations](images/ef694ce2-ad15-4d7e-8cff-6c5abec1d4ab.png)
 
